@@ -367,3 +367,6 @@
 0:0:0:0:0:0:0:1 - - [22/Mar/2024:15:25:27 +0530] "GET /Gym_Management/JS/chart.js HTTP/1.1" 404 785
 0:0:0:0:0:0:0:1 - - [22/Mar/2024:15:25:28 +0530] "POST /Gym_Management/logout HTTP/1.1" 200 5167
 0:0:0:0:0:0:0:1 - - [22/Mar/2024:15:25:28 +0530] "GET /Gym_Management/JS/chart.js HTTP/1.1" 404 785
+127.0.0.1 - - [22/Mar/2024:15:27:35 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [22/Mar/2024:15:27:36 +0530] "GET /Gym_Management/ HTTP/1.1" 200 5148
+0:0:0:0:0:0:0:1 - - [22/Mar/2024:15:27:36 +0530] "GET /Gym_Management/JS/chart.js HTTP/1.1" 404 785
